@@ -1,0 +1,6 @@
+Flask==1.0.1
+flask-restful
+numpy
+sklearn
+scipy
+requests

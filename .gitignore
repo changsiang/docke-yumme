@@ -1,0 +1,11 @@
+# pickle files
+*.pickle
+
+# model files
+./plateclick_data/
+
+# user model files
+./user/
+
+# Credentials and Secret
+flask_api/*credentials*
